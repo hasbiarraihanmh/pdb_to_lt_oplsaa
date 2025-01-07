@@ -7,3 +7,4 @@ To use the script, simply use this command:
 ```
 python3 pdb_to_lt_oplsaa.py molecule.pdb MoleculeName
 ```
+You can see the example in the example folder.
